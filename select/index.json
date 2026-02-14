@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "とどけ、ぜんぶ。",
+  "base_artist": "鬼ちゃん",
+  "createdAt": "2026-02-14T03:08:49.590331Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とどけ、ぜんぶ。",
+      "artist": "鬼ちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_とどけ、ぜんぶ。_鬼ちゃん.txt"
+    }
+  ]
+}
